@@ -1,0 +1,9 @@
+Estilo
+Geométrico nas formas, ôrganico na tipografia.
+
+Tipografia
+Arial pra titulos, georgia para textos
+
+Cores 
+#fec63e
+#000000

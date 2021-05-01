@@ -9,7 +9,7 @@ Bikcraft, foi o projeto desenvolvido no curso de Web Design Completo, na Origami
 
 # Screenshots
 <p align = "center">
-<a href="https://ibb.co/ZBkvXmJ"><img src="https://i.ibb.co/8rSGscB/screenshot.jpg" alt="screenshot" border="0"></a>
+<img src="https://i.ibb.co/8rSGscB/screenshot.jpg" alt="screenshot" border="0">
 </p>
 
 # Build Status
